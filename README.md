@@ -8,8 +8,22 @@ aplicação foi construpída para trabalhar me conjunto com a [Api em laravel de
 ### Features
 - API de autenticação
 
+### Requisitos
+- PHP 7.1
+- Laravel 5.6
+- Mysql 5.7
+- PHP extensions
+    - OpenSSL
+    - PDO
+    - Mbstring
+    - Tokenizer
+    - XML
+    - Ctype
+    - JSON
+
 ### Fontes:
 - UFPE: https://www.ufpe.br/
 - Laravel: https://laravel.com/
 - Swagger: https://swagger.io/
 - L5swagger: https://github.com/DarkaOnLine/L5-Swagger
+- Mysql: https://www.mysql.com/
